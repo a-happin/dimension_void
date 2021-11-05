@@ -1,4 +1,4 @@
-datapack-template
+corelib.dimension_void
 ==
 
 ## Features
