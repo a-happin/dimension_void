@@ -1,4 +1,4 @@
-corelib.dimension_void
+dimension_void
 ==
 
 ## Features
