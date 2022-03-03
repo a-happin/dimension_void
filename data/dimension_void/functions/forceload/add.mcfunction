@@ -1,5 +1,5 @@
 #> dimension_void:forceload/add
-#@within function dimension_void:load_once
+#@public
 
 # Fix https://bugs.mojang.com/browse/MC-143952
 

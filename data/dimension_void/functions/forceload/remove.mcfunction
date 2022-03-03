@@ -1,5 +1,5 @@
 #> dimension_void:forceload/remove
-#@within function dimension_void:forceload
+#@public
 
 # Fix https://bugs.mojang.com/browse/MC-143952
 
